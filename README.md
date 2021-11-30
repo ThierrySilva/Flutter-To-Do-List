@@ -1,6 +1,6 @@
-# to_do_list
+# To do list
 
-A new Flutter project.
+A simple project using flutter and provider to manager a 'To Do List'
 
 ## Getting Started
 
